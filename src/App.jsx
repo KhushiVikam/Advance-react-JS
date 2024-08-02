@@ -1,4 +1,5 @@
-import Starter from "./tutorial/02-useEffect/starter/05-cleanup-function";
+import Starter from "./tutorial/08-custom-hooks/starter/02-fetch-data";
+
 function App() {
   return (
     <div className="container">
